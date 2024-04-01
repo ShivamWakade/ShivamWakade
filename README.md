@@ -15,7 +15,7 @@
   
 ### 📫 How to reach me?
 
- - Connect with me on [LinkedIn](https://www.linkedin.com/in/shivam-wakade/) 👨🏻‍💻
+ - Connect with me on [LinkedIn](https://www.linkedin.com/in/shivam-wakade-085307252/) 👨🏻‍💻
  - Follow me on [Instagram](https://www.instagram.com/shivam_wakade/) ✨
  - Shoot Me an [Email](mailto:wearemello19@gmail.com) 💌
  
