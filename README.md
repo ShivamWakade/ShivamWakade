@@ -1,6 +1,6 @@
 **Hello there 👋**
 - 👋 Hi, I’m Shivam,
-- 👀 I’m interested in something that thrilled me like new IT skills.
+- 👀 I’m interested in something that thrilled me like new technologies.
 - 🌱 I’m currently learning DevOps.
 - 🚀 My Tech Stack:- <p float="left">
   <a href="https://www.docker.com/" target="_blank" >
